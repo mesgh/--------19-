@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "zombie": "^6.1.4"
+  },
+  "name": "task_20",
+  "version": "1.0.0",
+  "description": "mocha + zombie",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "MoseevES",
+  "license": "ISC"
+}
